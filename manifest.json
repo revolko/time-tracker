@@ -1,0 +1,9 @@
+{
+  "name": "Time tracker",
+  "description": "Track and record your tasks.",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html"
+  }
+}
