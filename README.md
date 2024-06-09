@@ -11,11 +11,11 @@ Go to `chrome://extensions`, enable `Developer mode`. Lastly, `Load unpacked` an
 
 ## TODO
 Stages define a progression. Do not skip an unfinished stage! If you pick a task, link issue or PR.
-### Stage 1. :fire: <!--- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols -->
- * [ ] -- init project [#1](https://github.com/revolko/time-tracker/issues/1)
+### Stage 1. :checkered_flag: <!--- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols -->
+ * [x] -- init project [#1](https://github.com/revolko/time-tracker/issues/1)
 
-### Stage 2. :stop_sign:
- * [ ] -- frontend (react??)
+### Stage 2. :fire:
+ * [ ] -- frontend (desing and implementation)
  * [ ] -- tracking logic (task, project, tag, start, end)
  * [ ] -- synchronization with google sheet (upload and download)
  * [ ] -- display current task duration
