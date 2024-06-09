@@ -1,6 +1,14 @@
 # time-tracker
 Track and record time spent on tasks.
 
+## How to run
+First, build the project:
+```bash
+npm run build
+```
+Go to `chrome://extensions`, enable `Developer mode`. Lastly, `Load unpacked` and point it to the 
+`build` directory. You can open the extension from the menu.
+
 ## TODO
 Stages define a progression. Do not skip an unfinished stage! If you pick a task, link issue or PR.
 ### Stage 1. :fire: <!--- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols -->
